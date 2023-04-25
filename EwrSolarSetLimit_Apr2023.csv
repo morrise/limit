@@ -39,8 +39,8 @@
 25,2,3,1000000,InFrequency,ExPhase,0.6,-0.6,1MHzPhaseOffset
 -15,2,3,1000000,InFrequency,ExPhase,0.6,-0.6,1MHzPhaseOffset
 150,2,3,1000000,InFrequency,ExPhase,0.6,-0.6,1MHzPhaseOffset
-175,2,3,1000000,InFrequency,StPhase,0.6,-0.6,1MHzPhaseOffset
-178,2,3,1000000,InFrequency,StPhase,0.6,-0.6,1MHzPhaseOffset
+175,2,3,1000000,InFrequency,ExPhase,0.6,-0.6,1MHzPhaseOffset
+178,2,3,1000000,InFrequency,ExPhase,0.6,-0.6,1MHzPhaseOffset
 25,2,3,1000000,InFrequency,StPhase,0.6,-0.6,1MHzPhaseOffset
 -15,2,3,1000000,InFrequency,StPhase,0.6,-0.6,1MHzPhaseOffset
 150,2,3,1000000,InFrequency,StPhase,0.6,-0.6,1MHzPhaseOffset
@@ -59,8 +59,8 @@
 25,2,12,1000000,InFrequency,ExPhase,0.6,-0.6,1MHzAGC
 -15,2,12,1000000,InFrequency,ExPhase,0.6,-0.6,1MHzAGC
 150,2,12,1000000,InFrequency,ExPhase,0.6,-0.6,1MHzAGC
-175,2,12,1000000,InFrequency,StPhase,0.6,-0.6,1MHzAGC
-178,2,12,1000000,InFrequency,StPhase,0.6,-0.6,1MHzAGC
+175,2,12,1000000,InFrequency,ExPhase,0.6,-0.6,1MHzAGC
+178,2,12,1000000,InFrequency,ExPhase,0.6,-0.6,1MHzAGC
 25,2,12,1000000,InFrequency,StPhase,0.6,-0.6,1MHzAGC
 -15,2,12,1000000,InFrequency,StPhase,0.6,-0.6,1MHzAGC
 150,2,12,1000000,InFrequency,StPhase,0.6,-0.6,1MHzAGC
